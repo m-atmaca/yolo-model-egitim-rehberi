@@ -1,0 +1,1 @@
+# nesne-tespiti-icin-egitim-yonergesi
