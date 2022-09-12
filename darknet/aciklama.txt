@@ -1,0 +1,3 @@
+darknetin içi olarak varsayalım. ağırlık yapmasın diye darkneti yüklemedim 
+darknet: https://github.com/AlexeyAB/darknet
+cfg dosyasında read.me'de bahsettiğim açıklamalar var

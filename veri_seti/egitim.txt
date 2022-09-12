@@ -1,0 +1,8 @@
+veri_seti/resimler/1.jpg
+veri_seti/resimler/2.jpg
+veri_seti/resimler/3.jpg
+veri_seti/resimler/4.jpg
+veri_seti/resimler/5.jpg
+veri_seti/resimler/6.jpg
+veri_seti/resimler/7.jpg
+veri_seti/resimler/8.jpg
