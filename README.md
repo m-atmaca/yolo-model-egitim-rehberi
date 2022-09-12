@@ -26,7 +26,7 @@ burada yapılan işlemleri koyacağım cfg klasöründe açıkladım<br>
 </pre>
 
 # veri setini hazırlama<br>
-</pre>
+<pre>
 -darknetin olduğu dizinde klasör aç(darknetin içinde değil) (örneğin adı veri_seti klasörü olsun)<br>
 -veri_seti klasörünün içinde bir klasör daha açılıp klasöre görseller koyulur (bunun da adı resimler olsun)<br>
 -resimler klasörüne toplanan görseller koyulur (1 2 3 şeklinde kaydet)<br>
