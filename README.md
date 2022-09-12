@@ -1,6 +1,6 @@
-# nesne-tespiti-icin-egitim-yonergesi
+<p># nesne-tespiti-icin-egitim-yonergesi
 <br>
-darkneti hazırlama
+# darkneti hazırlama
 darknet'i github'dan indir
 darkneti indirdikten sonra Makefile dosyasını açıp:
 	gpu=1
@@ -24,7 +24,7 @@ burada yapılan işlemleri koyacağım cfg klasöründe açıkladım
 
 
 
-veri setini hazırlama
+# veri setini hazırlama
 -darknetin olduğu dizinde klasör aç(darknetin içinde değil) (örneğin adı veri_seti klasörü olsun)
 -veri_seti klasörünün içinde bir klasör daha açılıp klasöre görseller koyulur (bunun da adı resimler olsun)
 -resimler klasörüne toplanan görseller koyulur (1 2 3 şeklinde kaydet)
@@ -50,7 +50,7 @@ veri setini hazırlama
 bu işlemler bittikten sonra veri_seti klasörünü kesip veya kopyalayıp darknet klasörünün içine atılır. (bu klasör direkt darknetin içinde de oluşturulup tüm işlemler içeride de yapılabilir).
 
 
-eğitim
+# eğitim
 collab'dan eğitim için:
 darknet dosyasını drive yüklüyoruz
 yeni notebook açın veya ekleyeceğim notebook'u collaba ekleyin
@@ -62,3 +62,4 @@ kodlardaki dosya yollarını kendi klasör adlarına göre ayarlamayı unutmayı
 yerel eğitim için:
 daha bu kısmı öğrenmedim :)
 öğrenince devamı gelecek
+<p>
