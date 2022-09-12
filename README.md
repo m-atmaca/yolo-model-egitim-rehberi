@@ -1,7 +1,5 @@
-<pre>
-
 # darkneti hazırlama
-<br>	
+<pre>	
 darknet'i github'dan indir<br>
 darkneti indirdikten sonra Makefile dosyasını açıp:<br>
 	gpu=1<br>
@@ -21,11 +19,14 @@ burada yapılan işlemleri koyacağım cfg klasöründe açıkladım<br>
 - classes'ların eğitilecek sınıf sayısı kadar olacak şekilde düzenle<br>
 - classes'ların hemen üst bloğunda bulunan filters'ları classes'ların 5 fazlasının 3 katı olarak düzenle [filters=(classes+5)*3]<br>
 - bu klasörü başka bir adla kaydedip kapatabiliriz.(örn: demoYolov4.cfg)<br>
- <br>
-<br>
-<br>
-<br>
+
+
+
+
+</pre>
+
 # veri setini hazırlama<br>
+</pre>
 -darknetin olduğu dizinde klasör aç(darknetin içinde değil) (örneğin adı veri_seti klasörü olsun)<br>
 -veri_seti klasörünün içinde bir klasör daha açılıp klasöre görseller koyulur (bunun da adı resimler olsun)<br>
 -resimler klasörüne toplanan görseller koyulur (1 2 3 şeklinde kaydet)<br>
@@ -51,7 +52,13 @@ burada yapılan işlemleri koyacağım cfg klasöründe açıkladım<br>
 bu işlemler bittikten sonra veri_seti klasörünü kesip veya kopyalayıp darknet klasörünün içine atılır. (bu klasör direkt darknetin içinde de oluşturulup tüm işlemler içeride de yapılabilir).<br>
 
 
+
+
+
+</pre>
+
 # eğitim
+<pre>
 collab'dan eğitim için:<br>
 darknet dosyasını drive yüklüyoruz<br>
 yeni notebook açın veya ekleyeceğim notebook'u collaba ekleyin<br>
