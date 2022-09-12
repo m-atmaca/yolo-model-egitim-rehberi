@@ -1,4 +1,4 @@
-<p>
+<pre>
 
 # darkneti hazırlama
 <br>	
@@ -63,4 +63,4 @@ kodlardaki dosya yollarını kendi klasör adlarına göre ayarlamayı unutmayı
 yerel eğitim için:<br>
 daha bu kısmı öğrenmedim :)<br>
 öğrenince devamı gelecek
-</p>
+</pre>
