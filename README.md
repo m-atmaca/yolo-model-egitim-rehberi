@@ -14,7 +14,7 @@ darknetin içindeki cfg klasöründen yolov4.cfg dosyasını darknetin içine ç
 burada yapılan işlemleri koyacağım cfg klasöründe açıkladım<br>
 - cfg dosyasını açıp subdivision 8'den 64 yapılır<br>
 - width ve height 416 yapılır<br>
-- max_batches=2000 ama bunu araştır<br>
+- max_batches=2000<br>
 - yine aynı bloktaki steps max_batches'in %80-%90 arası bir değer alır<br>
 - classes'ların eğitilecek sınıf sayısı kadar olacak şekilde düzenle<br>
 - classes'ların hemen üst bloğunda bulunan filters'ları classes'ların 5 fazlasının 3 katı olarak düzenle [filters=(classes+5)*3]<br>
