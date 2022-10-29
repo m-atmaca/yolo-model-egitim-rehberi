@@ -2,7 +2,7 @@ import os
 import cv2
 from glob import glob
 
-klasorPath = "C:\\Users\\atmaca\\Desktop\\yolokurs\\yolov4\\donusumKlasoru\\*.png"
+klasorPath = "klasör yolu\\*.png"
 
 png = glob(klasorPath)
 
